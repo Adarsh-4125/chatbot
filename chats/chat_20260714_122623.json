@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful assistant"
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "What is capital of  Mars"
+    },
+    {
+        "role": "assistant",
+        "content": "Mars does not have a capital because it is not inhabited by humans and doesn't have a government or political system. It's a planet that has been explored primarily by robotic missions. If you meant something else or need information about human exploration of Mars, feel free to ask!"
+    }
+]
